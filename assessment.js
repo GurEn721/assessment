@@ -78,7 +78,7 @@ const answers = [
  */
 
 function assessment(userName) {
-  if (userName === "↑↑↓↓←→←→AB") {
+  if (userName === "↑↑↓↓←→←→BA" || "上上下下左右左右BA) {
     let result = cursed;
     return result;
 } else {
